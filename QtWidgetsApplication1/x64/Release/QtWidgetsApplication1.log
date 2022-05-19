@@ -1,0 +1,6 @@
+﻿  Reading Qt configuration (D:/Qt/5.15.2/msvc2019_64/bin/qmake)
+  QtWidgetsApplication1.cpp
+D:\QtDemo\QtWidgetsApplication1\QtWidgetsApplication1\QtWidgetsApplication1.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\QtDemo\QtWidgetsApplication1\QtWidgetsApplication1\tstabiconbutton.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\QtDemo\QtWidgetsApplication1\QtWidgetsApplication1\tslesionsextract.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  QtWidgetsApplication1.vcxproj -> D:\QtDemo\QtWidgetsApplication1\x64\Release\QtWidgetsApplication1.exe

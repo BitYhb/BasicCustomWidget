@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/svg/stepend_button_clicked.svg</file>
+        <file>resources/svg/stepend_button_normal.svg</file>
+        <file>resources/svg/stephead_button_clicked.svg</file>
+        <file>resources/svg/stephead_button_normal.svg</file>
+        <file>resources/svg/stepmiddle_button_clicked.svg</file>
+        <file>resources/svg/stepmiddle_button_normal.svg</file>
+        <file>resources/svg/toolbutton_checkIcon.svg</file>
+        <file>resources/svg/toolbutton_checkIconPressed.svg</file>
+        <file>resources/svg/toolbutton_3dEditWindow.svg</file>
+        <file>resources/svg/toolbutton_3dEditWindowPressed.svg</file>
+        <file>resources/svg/toolbutton_angleMeasure.svg</file>
+        <file>resources/svg/toolbutton_angleMeasurePressed.svg</file>
+        <file>resources/svg/toolbutton_calculator.svg</file>
+        <file>resources/svg/toolbutton_calculatorPressed.svg</file>
+        <file>resources/svg/toolbutton_lineMeasure.svg</file>
+        <file>resources/svg/toolbutton_lineMeasurePressed.svg</file>
+        <file>resources/svg/toolbutton_recover.svg</file>
+        <file>resources/svg/toolbutton_recoverPressed.svg</file>
+        <file>resources/svg/toolbutton_remarks.svg</file>
+        <file>resources/svg/toolbutton_remarksPressed.svg</file>
+        <file>resources/svg/toolbutton_revoke.svg</file>
+        <file>resources/svg/toolbutton_revokePressed.svg</file>
+        <file>resources/svg/toolbutton_screenCap.svg</file>
+        <file>resources/svg/toolbutton_screenCapPressed.svg</file>
+        <file>resources/svg/toolbutton_shitu.svg</file>
+        <file>resources/svg/toolbutton_shituPressed.svg</file>
+        <file>resources/svg/toolbutton_shotCut.svg</file>
+        <file>resources/svg/toolbutton_shotCutPressed.svg</file>
+        <file>resources/svg/toolbutton_windowWidth.svg</file>
+        <file>resources/svg/toolbutton_windowWidthPressed.svg</file>
+        <file>resources/svg/eraser_checked.svg</file>
+        <file>resources/svg/eraser_normal.svg</file>
+        <file>resources/svg/eyes.svg</file>
+        <file>resources/svg/del.svg</file>
+    </qresource>
+</RCC>

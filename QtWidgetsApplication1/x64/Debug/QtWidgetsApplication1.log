@@ -1,0 +1,17 @@
+﻿  Reading Qt configuration (D:/Qt/5.15.2/msvc2019_64/bin/qmake)
+  moc QtWidgetsApplication1.h
+  moc tspreviousstepornextstepbutton.h
+  moc tsstepbutton.h
+  moc tstoolbutton.h
+  tspreviousstepornextstepbutton.cpp
+  tsstepbutton.cpp
+  tstoolbutton.cpp
+  QtWidgetsApplication1.cpp
+  main.cpp
+  qrc_QtWidgetsApplication1.cpp
+  qrc_tsResources.cpp
+  moc_QtWidgetsApplication1.cpp
+  moc_tspreviousstepornextstepbutton.cpp
+  moc_tsstepbutton.cpp
+  moc_tstoolbutton.cpp
+LINK : fatal error LNK1104: 无法打开文件“D:\QtDemo\QtWidgetsApplication1\x64\Debug\QtWidgetsApplication1.exe”
