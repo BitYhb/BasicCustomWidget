@@ -1,0 +1,3 @@
+module Middleware
+AbstractDialog 1.0 AbstractDialog.qml
+IconDialog 1.0 IconDialog.qml

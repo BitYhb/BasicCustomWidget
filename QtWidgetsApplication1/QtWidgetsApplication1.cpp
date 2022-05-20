@@ -117,7 +117,7 @@ QtWidgetsApplication1::QtWidgetsApplication1(QWidget *parent)
                                 "width:3px;\n"
                             "}\n");
     //控制多选操作 设置选中
-    //ui->listWidget->setSelectionMode(QAbstractItemView::MultiSelection);
+    //listWidget->setSelectionMode(QAbstractItemView::MultiSelection);
     //item->setSelected(true);
     for (int i = 0; i < 10; i++) {
         QListWidgetItem *item = new QListWidgetItem(listWidget);
